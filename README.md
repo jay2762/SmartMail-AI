@@ -8,4 +8,5 @@
 
 
 -> Developed a Chrome extension to automatically compose and send AI-generated email replies in real time, enhancing user productivity.
+
 <img width="500" height="500" alt="Screenshot 2025-07-12 at 7 08 40 PM" src="https://github.com/user-attachments/assets/c2259761-7a4b-43a8-88f1-40d65ce16ebb" />
